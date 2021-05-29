@@ -1,0 +1,71 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.head{
+    background-image: url('./hackcade.png');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+.arcade{
+    background-image: url('./arcade.png');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+.headtext{
+    font-family: 'Limelight', cursive;
+    color: #fff;
+    padding: 50px;
+    margin: 0;
+    text-align: center;
+    font-size: 50px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    margin: 2%;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 25px;
+}
+.box4{
+    width: 100%;
+    background-color: rgba(250, 235, 215, 0.26);
+    height: 70%;
+    margin: 5px;
+    border-radius: 5%;
+}
+.box1{
+    width: 100%;
+    background-color: rgba(250, 235, 215, 0.26);
+    height: 70%;
+    margin: 5px;
+    border-radius: 5%;
+}
+.box2{
+    width: 100%;
+    background-color: rgba(250, 235, 215, 0.26);
+    height: 70%;
+    margin: 5px;
+    border-radius: 5%;
+}
+.box3{
+    width: 100%;
+    background-color: rgba(250, 235, 215, 0.26);
+    height: 70%;
+    margin: 5px;
+    border-radius: 5%;
+}
+a {
+    width: 100%;
+    height: 100%;
+    margin: 5px;
+    color: antiquewhite;
+}
+a::after{
+    color: antiquewhite;
+}
